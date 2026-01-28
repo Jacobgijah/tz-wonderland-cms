@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_tour_quick_facts",
+  "info": {
+    "displayName": "quick-facts"
+  },
+  "options": {},
+  "attributes": {
+    "duration": {
+      "type": "string"
+    },
+    "difficulty": {
+      "type": "enumeration",
+      "enum": [
+        "Easy",
+        "Moderate",
+        "Challenging"
+      ]
+    },
+    "groupSize": {
+      "type": "string"
+    },
+    "bestSeason": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
